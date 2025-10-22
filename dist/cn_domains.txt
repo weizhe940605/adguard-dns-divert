@@ -69285,8 +69285,6 @@ msftncsi.com
 msftonlinelab.com
 msgamego.com
 msgcarry.com
-msgr.dlservice.microsoft.com
-msgruser.dlservice.microsoft.com
 msgtjj.com
 msh2020.com
 mshandong.com
@@ -77168,7 +77166,6 @@ qh-cdn.com
 qh-dl.com
 qh-hospital.org
 qh-lb.com
-qh.dlservice.microsoft.com
 qh24.com
 qh4321.com
 qh6bc.com
@@ -85918,7 +85915,6 @@ siluke.cc
 siluke.info
 silukex.com
 siluwu.com
-silverlight.dlservice.microsoft.com
 sim.djicdn.com
 sim.lenovo.com
 sim800.com
@@ -86726,7 +86722,6 @@ sltgj.com
 slthxx.com
 sltv.net
 sltxantonline.com
-slupdate.dlservice.microsoft.com
 sluyu.com
 slwh-dfh.com
 slwwedding.com
@@ -99830,7 +99825,6 @@ wkzf.com
 wkzk.com
 wkzuche.com
 wkzw.me
-wl.dlservice.microsoft.com
 wl369.com
 wl890.com
 wlaforum.com
@@ -101764,7 +101758,6 @@ xazysoft.net
 xazyy.com
 xazzs.com
 xb.app
-xb.dlservice.microsoft.com
 xb0.cc
 xb2s.com
 xba123.com
