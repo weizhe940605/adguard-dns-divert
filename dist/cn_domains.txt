@@ -43804,6 +43804,7 @@ hb110.cc
 hb12333.com
 hb191.com
 hb2h.com
+hb2stream1.baoxinwen.com
 hb30.com
 hb3rm.com
 hb500.com
@@ -60941,6 +60942,7 @@ leapmie.com
 leapmmw.com
 leapmotor.com
 learn-quantum.com
+learn.microsoft.com
 learndiary.com
 learnfuture.com
 learningsj.com
@@ -86569,6 +86571,7 @@ str-mo.com
 straitchain.com
 strategy-sight.com
 stray-soul.com
+stream.baoxinwen.com
 stream.dybtv.com
 stream.guihet.com
 stream.houstonpublicmedia.org
